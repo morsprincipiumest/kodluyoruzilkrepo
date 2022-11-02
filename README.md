@@ -21,6 +21,8 @@ cd kodluyoruzilkrepo
 code .
 ```
 
+[Patika.dev](https://www.patika.dev)
+
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
