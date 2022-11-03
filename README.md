@@ -8,7 +8,7 @@ Bu repository, front-end ve GIT eğitiminde açtığımız ilk repository. İçe
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/morsprincipiumest/kodluyoruzilkrepo
 ```
 
 ## Usage
